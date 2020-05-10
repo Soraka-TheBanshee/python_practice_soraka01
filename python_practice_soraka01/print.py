@@ -1,2 +1,2 @@
-
-print('kek1' , 'kek2' , sep = 'w')
+name = input('Choose yuoor name \n')
+print('Hello,' , name)
